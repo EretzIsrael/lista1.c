@@ -1,3 +1,4 @@
 # lista1.c
-Lista de exercícios em C da aula de FPOO do professor Wellington 👍
-🐱‍👤
+🚩 Essa lista é referente à *lista exercícios em C* da aula de FPOO do professor Wellington 🚩 
+🤗 Estou aprendendo constantemente e sempre ligado na área de tecnologia 👨‍💻 
+
