@@ -3,5 +3,7 @@
 🤗 Estou aprendendo constantemente e sempre ligado na área de tecnologia 👨‍💻 <br>
 ### Exercícios
 😶‍🌫️ Alguns pode ser desafiantes, mas você vai ver que é só questão de prática e *constancia* <br> 
+<hr>
+
 
 
