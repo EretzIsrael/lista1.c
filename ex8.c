@@ -14,9 +14,9 @@ int main (){
 	x = 2 * pi * raio * altura;
 	y = pi * raio * raio * raio * altura;
 	
-	printf ("O raio é %d \n", raio);
-	printf ("O raio é %d \n ", altura);
-	printf("A area é igual = %d\n", y);
-	printf ("O volume é igual = %d\n", x);
+	printf ("O raio ï¿½ %d \n", raio);
+	printf ("O raio ï¿½ %d \n ", altura);
+	printf("A area ï¿½ igual = %d\n", y);
+	printf ("O volume ï¿½ igual = %d\n", x);
 	return 0;
 }

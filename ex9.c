@@ -11,7 +11,7 @@ int main (){
     //Input
     printf("Nome do produto: ");
     scanf ("%c", &nome);
-    printf ("Preço do produto: ");
+    printf ("Preco do produto: ");
     scanf ("%p", &p);
     //Calculation 
     novo = p * 1.05;
