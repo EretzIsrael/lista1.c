@@ -5,7 +5,7 @@ int main (){
     int votos;
     int calculo;
     printf("Nome da cidade: \n");
-    scanf ("%c", &nome);
+    scanf ("%s", &nome);
     printf("Quantos eleitores?: ");
     scanf ("%d", &eleitores);
     printf ("Numero de votos: ");
